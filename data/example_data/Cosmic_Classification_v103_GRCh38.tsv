@@ -1,0 +1,100 @@
+COSMIC_PHENOTYPE_ID	PRIMARY_SITE	SITE_SUBTYPE_1	SITE_SUBTYPE_2	SITE_SUBTYPE_3	PRIMARY_HISTOLOGY	HISTOLOGY_SUBTYPE_1	HISTOLOGY_SUBTYPE_2	HISTOLOGY_SUBTYPE_3	NCI_CODE	EFO
+COSO27985024	haematopoietic_and_lymphoid_tissue	NS	NS	NS	haematopoietic_neoplasm	acute_myeloid_leukaemia	M5b	NS	C3171	http://www.ebi.ac.uk/efo/EFO_0000222
+COSO36006237	stomach	NS	NS	NS	carcinoma	signet_ring_adenocarcinoma	NS	NS	C5250	
+COSO28394862	breast	NS	NS	NS	carcinoma	NS	NS	NS	C4872	
+COSO36286727	thyroid	NS	NS	NS	carcinoma	papillary_carcinoma	follicular_variant	NS	C7381	http://www.ebi.ac.uk/efo/EFO_1000261
+COSO33006107	skin	arm	NS	NS	benign_melanocytic_nevus	NS	NS	NS	C7571	http://purl.obolibrary.org/obo/MONDO_0044794
+COSO32054862	prostate	NS	NS	NS	carcinoma	NS	NS	NS	C4863	
+COSO364310832	vulva	NS	NS	NS	other	lichen_sclerosus	NS	NS	C27723	
+COSO30135797	ovary	NS	NS	NS	carcinoma	mixed_carcinoma	NS	NS	C40090	
+COSO360710843	soft_tissue	fibrous_tissue_and_uncertain_origin	stomach	NS	GIST_tumourlet(hyalinizing_stromal_tumour;minute_gastric_sclerosing_stromal_tumour;gross_ICC_hyperplasia)	NS	NS	NS	C3868	http://purl.obolibrary.org/obo/MONDO_0011719
+COSO58706157	soft_tissue	fat	intraabdominal	NS	liposarcoma	myxoid-round_cell	NS	NS	C4253	http://purl.obolibrary.org/obo/MONDO_0003594
+COSO58375343	soft_tissue	striated_muscle	paraspinal	NS	rhabdomyosarcoma	embryonal	NS	NS	C8971	
+COSO29645585	kidney	NS	NS	NS	carcinoma	papillary_renal_cell_carcinoma	Type_2	NS	C6975	http://www.ebi.ac.uk/efo/EFO_0000640
+COSO285211100	soft_tissue	striated_muscle	NS	NS	rhabdomyosarcoma	embryonal	spindle_cell	NS	C6519	http://purl.obolibrary.org/obo/MONDO_0002581
+COSO28205222	bone	rib	NS	NS	Ewing_sarcoma-peripheral_primitive_neuroectodermal_tumour	NS	NS	NS	C35871	http://purl.obolibrary.org/obo/MONDO_0021123
+COSO32906050	skin	shoulder	NS	NS	malignant_melanoma	superficial_spreading	NS	NS	C9152	http://purl.obolibrary.org/obo/MONDO_0020638
+COSO37666603	soft_tissue	fibrous_tissue_and_uncertain_origin	endometrium	NS	endometrial_stromal_sarcoma	NS	NS	NS	C8973	
+COSO28865362	large_intestine	NS	NS	NS	adenoma	tubulovillous	NS	NS	C5675	http://purl.obolibrary.org/obo/MONDO_0024662
+COSO583410969	soft_tissue	fibrous_tissue_and_uncertain_origin	parotid	NS	desmoplastic_small_round_cell_tumour	NS	NS	NS	C8300	http://www.ebi.ac.uk/efo/EFO_1000895
+COSO282410727	central_nervous_system	brain	NS	NS	glioma	astroblastoma	NS	NS	C4324	http://purl.obolibrary.org/obo/MONDO_0016707
+COSO28975402	small_intestine	duodenum	NS	NS	other	Peutz-Jeghers_polyp	NS	NS	C7755	
+COSO32926047	skin	upper_arm	NS	NS	carcinoma	Merkel_cell_carcinoma	NS	NS	C9231	
+COSO328611095	skin	scalp	NS	NS	adnexal_tumour	hidradenoma	NS	NS	C7563	http://purl.obolibrary.org/obo/MONDO_0002805
+COSO31465765	soft_tissue	smooth_muscle	oesophagus	NS	leiomyoma	NS	NS	NS	C3157	http://purl.obolibrary.org/obo/MONDO_0001572
+COSO33806080	skin	lower_leg	NS	NS	malignant_melanoma	in_situ_melanotic_neoplasm	NS	NS	C8423	
+COSO36246269	testis	NS	NS	NS	germ_cell_tumour	choriocarcinoma	NS	NS	C7733	
+COSO28295237	central_nervous_system	brainstem	NS	NS	glioma	astrocytoma_Grade_II	fibrillary	NS	C4322	http://www.ebi.ac.uk/efo/EFO_0000272
+COSO35036179	soft_tissue	striated_muscle	buttock	NS	rhabdomyosarcoma	pleomorphic	NS	NS	C4258	http://purl.obolibrary.org/obo/MONDO_0017386
+COSO299712865	lung	right_lower_lobe	NS	NS	carcinoma	spindle_cell_carcinoma	NS	NS	C45541	
+COSO31094830	upper_aerodigestive_tract	mouth	uvula	NS	carcinoma	squamous_cell_carcinoma	NS	NS	C4833	
+COSO29916015	lung	NS	NS	NS	carcinoma	adenoid_cystic_carcinoma	NS	NS	C5666	http://purl.obolibrary.org/obo/MONDO_0003181
+COSO28226610	bone	tibia	NS	NS	osteosarcoma	osteoblastic	NS	NS	C53953	http://purl.obolibrary.org/obo/MONDO_0020660
+COSO362810103	thyroid	NS	NS	NS	adenoma-nodule-goitre	trabecular_tumour	NS	NS	C3414	
+COSO33266137	skin	leg	NS	NS	benign_melanocytic_nevus	Spitz	NS	NS	C27007	http://purl.obolibrary.org/obo/MONDO_0044793
+COSO31035734	upper_aerodigestive_tract	mouth	tongue	NS	other	leukoplakia-hyperplakia-erythroplakia	premalignant	NS	C3886	
+COSO32866133	skin	scalp	NS	NS	adnexal_tumour	pilomatricoma	NS	NS	C7368	
+COSO28046781	soft_tissue	blood_vessel	NS	NS	haemangioma	cavernous	NS	NS	C3086	
+COSO292911042	upper_aerodigestive_tract	sinonasal_and_nasal_cavity	NS	NS	other	nasal_polyp	NS	NS	C3256	
+COSO352410877	soft_tissue	fibrous_tissue_and_uncertain_origin	popliteal	NS	synovial_sarcoma	biphasic	NS	NS	C4279	http://purl.obolibrary.org/obo/MONDO_0003468
+COSO585611512	skin	head_neck	NS	NS	adnexal_tumour	malignant_adnexal_tumour	sebaceous_carcinoma	NS	C43341	
+COSO331211512	skin	eye	NS	NS	adnexal_tumour	malignant_adnexal_tumour	sebaceous_carcinoma	NS	C43340	
+COSO61136187	soft_tissue	fibrous_tissue_and_uncertain_origin	proximal	NS	epithelioid_sarcoma	NS	NS	NS	C3714	http://purl.obolibrary.org/obo/MONDO_0017387
+COSO33206029	skin	hand	NS	NS	other	seborrhoeic_keratosis	NS	NS	C9006	http://www.ebi.ac.uk/efo/EFO_0005584
+COSO620822008	soft_tissue	fibrous_tissue_and_uncertain_origin	forehead	NS	dermatofibrosarcoma_protuberans	fibrosarcomatous	NS	NS	C27547	
+COSO33746043	skin	trunk	NS	NS	in_situ_epithelial_neoplasm	Bowen_disease	NS	NS	C62571	http://purl.obolibrary.org/obo/MONDO_0020761
+COSO289711435	small_intestine	duodenum	NS	NS	other	inflammatory_fibroid_polyp	NS	NS	C35516	http://purl.obolibrary.org/obo/MONDO_0024292
+COSO521412955	bone	extraskeletal	NS	NS	other	chondroid_hamartoma	NS	NS	C42589	
+COSO52146748	bone	extraskeletal	NS	NS	other	chondroma	NS	NS	C9482	
+COSO682011970	midline_organs	mediastinum	NS	NS	midline_carcinoma	NS	NS	NS	C45716	
+COSO681311970	midline_organs	head_neck	NS	NS	midline_carcinoma	NS	NS	NS	C45716	
+COSO97715343	soft_tissue	striated_muscle	cheek	NS	rhabdomyosarcoma	embryonal	NS	NS	C8971	
+COSO299717553	lung	right_lower_lobe	NS	NS	carcinoma	signet_ring_cell_adenocarcinoma	NS	NS	C3774	
+COSO585610856	skin	head_neck	NS	NS	other	atypical_Spitzoid_tumour	NS	NS	C7058	http://purl.obolibrary.org/obo/MONDO_0021143
+COSO329017607	skin	shoulder	NS	NS	benign_melanocytic_nevus	melanocytic_tumour	NS	NS	C7571	http://purl.obolibrary.org/obo/MONDO_0044794
+COSO36955298	soft_tissue	fibrous_tissue_and_uncertain_origin	lower_extremity	NS	desmoid_tumour-fibromatosis	NS	NS	NS	C6489	
+COSO38076431	central_nervous_system	parietal_lobe	NS	NS	other	dysembryoplastic_neuroepithelial_tumour	NS	NS	C9505	
+COSO108635226	soft_tissue	NS	ovary	NS	sarcoma	NS	NS	NS	C8267	http://purl.obolibrary.org/obo/MONDO_0002225
+COSO110326091	skin	mucosal	penis	NS	malignant_melanoma	nodular	NS	NS	C178517	
+COSO98145232	central_nervous_system	frontoparietal	NS	NS	glioma	astrocytoma_Grade_IV	glioblastoma_multiforme	NS	C5151	http://www.ebi.ac.uk/efo/EFO_0006545
+COSO521418105	bone	extraskeletal	NS	NS	Ewing_sarcoma-peripheral_primitive_neuroectodermal_tumour	atypical	NS	NS	C27293	
+COSO313911435	oesophagus	NS	NS	NS	other	inflammatory_fibroid_polyp	NS	NS	C4057	
+COSO353518144	soft_tissue	fibrous_tissue_and_uncertain_origin	elbow	NS	myoepithelial_tumour	NS	NS	NS	C40392	http://purl.obolibrary.org/obo/MONDO_0002380
+COSO286811692	large_intestine	colon	right	NS	serrated_polyp	serrated_adenoma	dysplasia	NS	C43577	
+COSO286411692	large_intestine	colon	left	NS	serrated_polyp	serrated_adenoma	dysplasia	NS	C43577	
+COSO377310797	soft_tissue	fibrous_tissue_and_uncertain_origin	abdomen	NS	solitary_fibrous_tumour	NS	NS	NS	C7634	http://purl.obolibrary.org/obo/MONDO_0016238
+COSO318710797	soft_tissue	fibrous_tissue_and_uncertain_origin	retroperitoneum	NS	solitary_fibrous_tumour	NS	NS	NS	C7634	http://purl.obolibrary.org/obo/MONDO_0016238
+COSO605318574	central_nervous_system	third_ventricle	NS	NS	other	cribriform_neuroepithelial_tumour	NS	NS	C121963	
+COSO32906029	skin	shoulder	NS	NS	other	seborrhoeic_keratosis	NS	NS	C9006	http://www.ebi.ac.uk/efo/EFO_0005584
+COSO334518848	skin	upper_leg	NS	NS	malignant_melanoma	BRAF_inhibitor_related	NS	NS	C3510	http://www.ebi.ac.uk/efo/EFO_0000389
+COSO583711100	soft_tissue	striated_muscle	paraspinal	NS	rhabdomyosarcoma	embryonal	spindle_cell	NS	C6519	http://purl.obolibrary.org/obo/MONDO_0002581
+COSO103476176	soft_tissue	striated_muscle	upper_extremity	NS	rhabdomyosarcoma	alveolar	NS	NS	C3749	
+COSO576618719	bone	skull	NS	NS	Overgrowth_syndrome	NS	NS	NS	C94828	http://www.orpha.net/ORDO/Orphanet_93460
+COSO30035674	lung	right	NS	NS	carcinoma	non_small_cell_carcinoma	NS	NS	C2926	
+COSO279819081	haematopoietic_and_lymphoid_tissue	NS	NS	NS	lymphoid_neoplasm	acute_lymphoblastic_B_cell_leukaemia	inherited_bone_marrow_disorder	congenital_neutropenia	C8644	http://www.ebi.ac.uk/efo/EFO_0000094
+COSO345019186	soft_tissue	fibrous_tissue_and_uncertain_origin	neck	NS	myopericytoma	malignant	NS	NS	C50401	http://purl.obolibrary.org/obo/MONDO_0017349
+COSO30354799	haematopoietic_and_lymphoid_tissue	salivary_gland	NS	NS	lymphoid_neoplasm	B_cell_lymphoma_unspecified	NS	NS	C3457	http://www.ebi.ac.uk/efo/EFO_1001938
+COSO1080521947	soft_tissue	fibrous_tissue_and_uncertain_origin	femoral	NS	undifferentiated-unclassified_sarcoma	pleomorphic	NS	NS	C4247	http://www.ebi.ac.uk/efo/EFO_1001972
+COSO104525202	soft_tissue	blood_vessel	small_intestine	NS	angiosarcoma	NS	NS	NS	C3088	http://www.ebi.ac.uk/efo/EFO_0003968
+COSO1025918719	soft_tissue	fibrous_tissue_and_uncertain_origin	digit	NS	Overgrowth_syndrome	NS	NS	NS	C94828	http://www.orpha.net/ORDO/Orphanet_93460
+COSO105566407	haematopoietic_and_lymphoid_tissue	middle_ear	NS	NS	haematopoietic_neoplasm	mast_cell_neoplasm	mast_cell_sarcoma	NS	C9348	http://www.ebi.ac.uk/efo/EFO_1000364
+COSO525111318	haematopoietic_and_lymphoid_tissue	mediastinum	NS	NS	haematopoietic_neoplasm	granulocytic_sarcoma	NS	NS	C35815	http://www.ebi.ac.uk/efo/EFO_1000286
+COSO326310404	upper_aerodigestive_tract	sinonasal_and_nasal_cavity	sinus	paranasal	carcinoma	large_cell_neuroendocrine_carcinoma	NS	NS	C173091	
+COSO983322207	soft_tissue	fat	scalp	NS	Overgrowth_syndrome	encephalocraniocutaneous_lipomatosis	NS	NS	C4701	http://purl.obolibrary.org/obo/MONDO_0013074
+COSO328218571	skin	neck	NS	NS	adnexal_tumour	malignant_adnexal_tumour	spiradenocarcinoma	NS	C5117	
+COSO37075257	central_nervous_system	spinal_cord	NS	NS	glioma	NS	NS	NS	C4534	http://purl.obolibrary.org/obo/MONDO_0002542
+COSO318819646	soft_tissue	smooth_muscle	retroperitoneum	NS	leiomyoma	leiomyomatosis	NS	NS	C3748	http://purl.obolibrary.org/obo/MONDO_0003295
+COSO554219633	haematopoietic_and_lymphoid_tissue	extranodal	NS	NS	lymphoid_neoplasm	diffuse_large_B_cell_of_the_elderly	EBV_positive	NS	C80281	http://purl.obolibrary.org/obo/MONDO_0017346
+COSO61835237	central_nervous_system	basal_ganglia	NS	NS	glioma	astrocytoma_Grade_II	fibrillary	NS	C4322	http://www.ebi.ac.uk/efo/EFO_0000272
+COSO58716152	soft_tissue	fat	abdomen	NS	liposarcoma	well_differentiated	NS	NS	C4250	http://www.ebi.ac.uk/efo/EFO_0000736
+COSO573820552	soft_tissue	fibrous_tissue_and_uncertain_origin	leg	NS	myoepithelial_carcinoma	NS	NS	NS	C7596	http://purl.obolibrary.org/obo/MONDO_0003158
+COSO1119820158	haematopoietic_and_lymphoid_tissue	jaw	NS	NS	lymphoid_neoplasm	Burkitt_lymphoma	endemic_variant	NS	C27122	
+COSO110856091	skin	mucosal	pharynx	NS	malignant_melanoma	nodular	NS	NS	C178521	
+COSO1045119003	soft_tissue	blood_vessel	retroperitoneum	NS	haemangioendothelioma	kaposiform	NS	NS	C27510	http://purl.obolibrary.org/obo/MONDO_0016236
+COSO372522009	soft_tissue	fibrous_tissue_and_uncertain_origin	upper_leg	NS	dermatofibrosarcoma_protuberans	fibrosarcomatous	transformed_to_fibrosarcoma	NS	C27547	
+COSO322221758	salivary_gland	parotid	NS	NS	carcinoma	hybrid_salivary_gland_carcinoma	mucoepidermoid_carcinoma_and_basal_cell_adenoma	NS	C181078	
+COSO33126117	skin	eye	NS	NS	benign_melanocytic_nevus	intradermal	NS	NS	C3804	
+COSO292921652	upper_aerodigestive_tract	sinonasal_and_nasal_cavity	NS	NS	other	intestinal_metaplasia	NS	NS	C8360	
+COSO1119122004	soft_tissue	blood_vessel	inguinal	NS	Kaposi_sarcoma	classic	NS	NS	C9112	
+COSO331222000	skin	eye	NS	NS	adnexal_tumour	malignant_adnexal_tumour	endocrine_mucin-producing_sweat_gland_carcinoma	NS	C167364	
+COSO1004911100	soft_tissue	striated_muscle	skull	NS	rhabdomyosarcoma	embryonal	spindle_cell	NS	C6519	http://purl.obolibrary.org/obo/MONDO_0002581

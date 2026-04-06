@@ -1,0 +1,100 @@
+GENE_SYMBOL	COSMIC_GENE_ID	CELL_TYPE	PUBMED_PMID	HALLMARK	IMPACT	DESCRIPTION	CELL_LINE
+SH2B3	COSG79851	murine haematopoietic stem and progenitor	18618018	cell division control		KO results in decelerated cell cycle progression	
+SH2B3	COSG79851		28484264	function summary		an SH2B adaptor family protein that binds to phosphorylated tyrosine kinases and negatively regulates signaling from multiple cytokine and growth factor receptors	
+SH2B3	COSG79851	murine haematopoietic stem and progenitor	30254368	genome instability and mutations	promotes	KO in cells homozygous for a FANCD2 null allele leads to reduced chromosomal abnormality through stabilisation of stalled DNA replication forks	
+SH2B3	COSG79851		23897412	angiogenesis	suppresses	KD increases neovascularisation at peri-fracture sites in a mouse bone fracture model	
+SH2B3	COSG79851		19325148	angiogenesis	suppresses	postnatal day 17 mice homozygous for a null allele show enhanced retinal neovascularisation following oxygen-induced neonatal retinopathy	
+SH2B3	COSG79851	murine erythroid progenitor	15705783	escaping programmed cell death	suppresses	overexpression leads to increased apoptosis of erythropoietin-stimulated cells	
+SH2B3	COSG79851	murine preadipocyte	28526415	escaping programmed cell death		overexpression decreases the extent of palmitate-induced, caspase-dependent apoptosis	3T3-L1
+SIX1	COSG59671	breast cancer	24184484	escaping programmed cell death	promotes	ectopic expression induces resistance to paclitaxel-mediated apoptosis	MCF7
+SIX1	COSG59671	breast cancer	15123840	proliferative signalling	promotes	overexpression promotes proliferation, increases tumor burden and increases expression of cyclin A1	MCF7
+SIX1	COSG59671	hepatocellular carcinoma	20013809	proliferative signalling	promotes	KD slows growth rate and decreases colony formation	MHCC97L
+SIX1	COSG59671	mice	19726883	invasion and metastasis	promotes	SIX1-driven mammary tumours undergo EMT	
+SIX1	COSG59671	breast cancer	19726885	invasion and metastasis	promotes	ectopic expression promotes metastasis in mouse xenografts	MCF7
+SIX1	COSG59671	hepatocellular carcinoma	20013809	invasion and metastasis	promotes	KD suppresses pulmonary metastasis	MHCC97L
+SIX1	COSG59671	breast cancer	29455928	change of cellular energetics	promotes	increases expression of glycolytic genes, promoting the Warburg effect	ZR75-1
+SIX1	COSG59671	fibroblasts	26500063	senescence		KD promotes senescence	IMR90
+SIX1	COSG59671	breast cancer	18381426	role in cancer	Oncogene	Oncogene	
+SIX1	COSG59671	breast cancer	19726883	clinical impact		high SIX1 expression correlates with poor outcome	
+SIX1	COSG59671		19726885	clinical impact		increased expression is associated with aggressive disease in a variety of cancers	
+SIX1	COSG59671		27727438	types of alteration in cancer		recurrent Q177R in Wilm's tumour	
+SIX1	COSG59671		25670083	impact of mutation on function		Q177R alters DNA binding specificity	
+SIX1	COSG59671		24488862	function summary		transcription factor, a master regulator of the development of a number of tissues and organs	
+SIX1	COSG59671	breast cancer	9770533	genome instability and mutations	promotes	overexpression abrogates the DNA damage-induced G2 cell cycle checkpoint	MCF7
+SIX1	COSG59671	mammary epithelial cells	18381426	genome instability and mutations	promotes	overexpression increases incidence of DNA breaks and chromosomal abnormalities	MCF12A
+SIX1	COSG59671	colon cancer	28199476	angiogenesis	promotes	ectopic expression promotes tumour angiogenesis in a mouse model	MC38
+SIX1	COSG59671	mice	19726883	cell replicative immortality	promotes	overexpression increases mammosphere-forming capabilities of mammary epithelial cells	
+SIX1	COSG59671	ovarian cancer	17409410	escaping programmed cell death	promotes	inhibits TRAIL-mediated apoptosis	SKOV3
+SIX1	COSG59671	pancreatic cancer	23527134	proliferative signalling	promotes	overexpression promotes proliferation and upregulates expression of cyclin D1	PANC-1
+SLC34A2	COSG66821		26156586	invasion and metastasis	suppresses	has inhibitory effect on migration and invasion of several NSCLC cell lines confirmed by xenograft assays 	
+SLC34A2	COSG66821		26156586	role in cancer	TSG	TSG	
+SLC34A2	COSG66821		26598821	function summary		major intestinal NaPi transporter	
+SLC34A2	COSG66821	lung adenocarcinoma	22215748	fusion partner		ROS1	
+SLC34A2	COSG66821	breast cancer	28381172	cell replicative immortality	promotes	regulates SOX2 to maintain the stem cell-like features in CD147+  cancer stem-like cells through PI3K/AKT pathway 	
+SLC34A2	COSG66821	hepatocellular carcinoma	28281971	proliferative signalling	promotes	KD inhibits proliferation by suppressing activation of the PI3K/AKT signaling pathway in hepatocellular carcinoma cells 	
+SLC34A2	COSG66821	hepatocellular carcinoma	28281971	invasion and metastasis	promotes	KD inhibits migration and EMT by suppressing activation of the PI3K/AKT signaling pathway in hepatocellular carcinoma cells 	
+SLC34A2	COSG66821		26156586	suppression of growth	promotes	has inhibitory effect on cell growth of several NSCLC cell lines confirmed by xenograft assays 	
+SLC34A2	COSG66821		22215748	role in cancer	fusion	fusion	
+SMAD2	COSG72498		12034739	function summary		 intracellular signal transducer and transcriptional modulator activated by TGF-beta	
+SMAD2	COSG72498		23649632	cell replicative immortality	promotes	essential for the maintenance of the primed pluripotent stem cell state	
+SMAD2	COSG72498	podocytes	24086574	escaping programmed cell death	suppresses	Smad2-dependent downregulation of miR-30 is required for TGF-beta-induced apoptosis	
+SMAD2	COSG72498	esophageal squamous-cell carcinoma	26674378	invasion and metastasis	suppresses	silencing by miR-425 promotes increased cellular metastasis	
+SMAD2	COSG72498	esophageal squamous-cell carcinoma	26674378	suppression of growth	promotes	silencing by miR-425 promotes cell proliferation and colony formation	
+SMAD2	COSG72498	colorectal cancer	23139211	role in cancer	TSG	TSG	
+SMAD2	COSG72498	esophageal squamous-cell carcinoma	26674378	types of alteration in cancer		target of miR-425	
+SMAD2	COSG72498		9689088	differentiation and development		required for mesoderm induction	
+SMAD2	COSG72498		10535967	differentiation and development		required during embryonic development	
+SMAD2	COSG72498	colorectal cancer	23139211	impact of mutation on function		mutations in the MH1 domain alter the protein stability, DNA binding, prevent nuclear translocation, and enhance interactions with the MH2 domain; selected mutations reduce the ability of SMAD2 to form a complex with SMAD4, homozygous deletion is lethal while Apc/Smad2 cis-compound heterozygotes developed accelerated malignant progression of tumours	
+SMAD2	COSG72498		27727438	types of alteration in cancer		recurrent S464*	
+SMAD3	COSG112721		17327236	function summary		positively regulates PDPK1 kinase activity	
+SMAD3	COSG112721		19218245	function summary		intracellular signal transducer and transcriptional modulator activated by TGF-beta	
+SMAD3	COSG112721	breast cancer	25205100	function summary		balance between C-tail and linker phosphorylation directs tumourigenesis towards growth or metastasis	
+SMAD3	COSG112721	mouse kidney	15253712	escaping programmed cell death	suppresses	Smad3 deficiency attenuates apoptosis	
+SMAD3	COSG112721	breast cancer	25205100	escaping programmed cell death	promotes	mutation of Smad3 linker phosphorylation sites enhances apoptosis	
+SMAD3	COSG112721	breast cancer	25205100	proliferative signalling	promotes	mutation of Smad3 linker phosphorylation sites suppresses cell proliferation	
+SMAD3	COSG112721	renal tubular epithelial cells	23022526	invasion and metastasis	promotes	mutations in Smad3 linker phosphorylation sites positively regulate TGF-beta driven EMT	
+SMAD3	COSG112721	breast cancer	25205100	invasion and metastasis	promotes	mutation of Smad3 linker phosphorylation sites enhances TGF-beta driven EMT and invasiveness	
+TBX3	COSG61092	pancreatic ductal adenocarcinoma	27632063	angiogenesis	promotes	overexpression leads to increased VEGFA and FGF2 protein expression in chicken chorioallantoic membrane xenograft tumours	BxPC-3, PANC-1
+TBX3	COSG61092	breast ductal carcinoma in situ	27553211	escaping programmed cell death	promotes	overexpression of iso1 and iso2 transcript variants decreases cell apoptosis	21NT
+TBX3	COSG61092	hypopharyngeal SCC	31897121	escaping programmed cell death	promotes	KD causes an increase in cell apoptosis	FaDu
+TBX3	COSG61092	breast ductal carcinoma in situ	27553211	proliferative signalling	promotes	overexpression of iso1 and iso2 (+2a isoform) splice variants increases colony formation in 3D culture	21NT
+TBX3	COSG61092	melanoma	21779450	proliferative signalling	promotes	KD decreases anchorage-independent growth in vitro and inhibits mouse xenograft tumour formation	501-mel, INT-MEL-15/2
+TBX3	COSG61092	NSCLC	28521440	proliferative signalling	promotes	KD causes decreased cell proliferation in vitro	A549, NCI-H460
+TBX3	COSG61092	breast ductal carcinoma in situ	27553211	invasion and metastasis	promotes	iso1 and iso2 transcript variant overexpression increases cell migration and invasion	21NT
+TBX3	COSG61092	fibrosarcoma	26900951	invasion and metastasis	suppresses	iso1 and +2a splice variant overexpression decreases cell migration	HT-1080
+TBX3	COSG61092	melanoma	21779450	invasion and metastasis	promotes	KD decreases cell migration in vitro	501-mel, INT-MEL-15/2
+TBX3	COSG61092	NSCLC	28521440	invasion and metastasis	promotes	KD leads to a decrease in cell migration in vitro	A549, NCI-H460
+TBX3	COSG61092	fibrosarcoma	26900951	suppression of growth	promotes	overexpression of iso1 and +2a splice variants decreases anchorage-independent growth in vitro and the growth of mouse xenograft tumours	HT-1080
+TBX3	COSG61092	mouse embryo fibroblast	15289316	senescence		overexpression of the iso2 splice variant accelerates cell senescence	
+TBX3	COSG61092		11748239	senescence		ectopic expression of the iso1 transcript variant prevents senescence of mouse embryo fibroblasts, and of mouse striatum STHdhQ111 cells at 39 C	
+TBX3	COSG61092	breast cancer	30205045	role in cancer	oncogene	oncogene	
+TBX3	COSG61092	bladder cancer	25394776	clinical impact		promoter hypermethylation is associated with progression to muscle-invasive cancer and a shorter progression-free survival	
+TBX3	COSG61092	colorectal cancer	25628943	clinical impact		high protein expression is associated with a shorter overall and disease-free survival	
+TBX3	COSG61092	glioblastoma	21156036	clinical impact		proximal promoter CpG hypermethylation is associated with the significantly reduced survival of radiotherapy, chemotherapy plus temozolomide-treated patients	
+TBX3	COSG61092	pancreatic cancer	25743805	clinical impact		high protein expression is associated with a reduced overall survival	
+TBX3	COSG61092		22039763	mouse model		inducible mammary gland-specific expression in 3 - 4 week old mice accelerates mammary gland development	
+TBX3	COSG61092	breast cancer, cervical cancer, colorectal cancer, gastric cancer, HNSCC, liver cancer, melanoma, ovarian cancer, pancreatic cancer	30268432	types of alteration in cancer		increased expression in a subset of tumours	
+TBX3	COSG61092		30425966	global regulation of gene expression		overexpression in large cell lung carcinoma NCI-H1229 cells increases the expression of 800 genes and decreases the expression of 958 genes, respectively	
+TBX3	COSG61092	ulnar-mammary syndrome	9207801	differentiation and development		germline frameshift and splice site mutations cause limb, apocrine gland, dental and genital abnormalities	
+TBX3	COSG61092		12668638	differentiation and development		mouse embryos homozygous for a null allele have yolk sac and limb abnormalities, lack mammary glands, and die by 16.5 days post-coitum	
+TBX3	COSG61092	hypopharyngeal SCC	31897121	cell division control		KD leads to S phase cell cycle arrest	FaDu
+TBX3	COSG61092		29511350	cell division control		KD arrests G1 to S phase transition	
+TBX3	COSG61092		31669645	function summary		a member of the evolutionarily conserved T-box gene family and transcriptional repressor involved in regulating the development of the heart, lungs, mammary glands, and limbs	
+TBX3	COSG61092		36622795	interaction with pathogen		ectopic expression in HPV-negative cervical squamous carcinoma cells induces decreases in cell proliferation and cell migration that are reversed by simultaneous overexpression of HPV18 E6 and E7	
+TBX3	COSG61092		26579496	impact of mutation on function		T-box domain-affecting p.H187Y and p.Y163fs*2 diminish, or eliminate, transcription factor DNA binding capability, and reduce, or eliminate, transcriptional repression of a target gene in an in vitro reporter assay	
+TCF7L2	COSG99267	colorectal cancer	21892161	fusion partner		VTI1A	
+TCF7L2	COSG99267		21892161	role in cancer	fusion	fusion	
+TCF7L2	COSG99267	cervical cancer	28165569	invasion and metastasis	promotes	silencing of TCF7L2 by miR-212 suppressed invasion in vitro 	
+TCF7L2	COSG99267	cervical cancer	28165569	proliferative signalling	promotes	silencing of TCF7L2 by miR-212 suppressed cell proliferation in vitro 	
+TCF7L2	COSG99267	colon cancer	23029137	escaping programmed cell death	promotes	KD inhibits induces apoptosis	SW480 and HCT116
+TCF7L2	COSG99267	colon cancer	23029137	proliferative signalling	promotes	KD inhibits proliferation	SW480 and HCT116
+TCF7L2	COSG99267		25015099	function summary		master regulator of insulin production and processing 	
+TCF7L2	COSG99267		28165569	role in cancer	oncogene	oncogene	
+TCL1A	COSG80884		10983986	role in cancer	oncogene	oncogene	
+TCL1A	COSG80884	T-cell prolymphocytic leukaemia 	11241786	fusion partner		TRA	
+TCL1A	COSG80884		11241786	types of alteration in cancer		 activated by chromosomal rearrangement or by hypomethylation 	
+TCL1A	COSG80884		19668332	escaping programmed cell death	promotes	by interfering with the inhibition of NF-kB by IkB, TCL1A may increase the concentration of free NF-kB molecules sufficiently to trigger expression of anti-apoptotic genes 	
+TCL1A	COSG80884		10983986	escaping programmed cell death	promotes	increases cell survival 	
+TCL1A	COSG80884		10983986	proliferative signalling	promotes	enhances cell proliferation	
+TCL1A	COSG80884		10983986	function summary		facilitates the oligomerisation and activation of Akt, increases Akt kinase activity and as a consequence enhances substrate phosphorylation, stabilises the mitochondrial transmembrane potential	
+TCL1A	COSG80884	CLL	22308499	global regulation of gene expression		Tcl1 overexpression drastically inhibits Dnmt3A function, samples with high Tcl1 expression showed a decrease in DNA methylation 	
