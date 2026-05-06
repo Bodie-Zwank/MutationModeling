@@ -389,6 +389,40 @@ def plot_window_with_normal_fit(
     return descriptive
 
 
+def plot_real_vs_simulated_interarrivals(
+    real_df: pd.DataFrame,
+    sim_df: pd.DataFrame,
+    output_path: str,
+    bins: int = 80,
+) -> None:
+    """Overlay log10 histograms of real and IPP-simulated interarrivals."""
+    real = real_df['interarrival_bp'].to_numpy()
+    sim = sim_df['interarrival_bp'].to_numpy()
+    log_real = np.log10(real[real > 0])
+    log_sim = np.log10(sim[sim > 0])
+
+    lo = float(min(log_real.min(), log_sim.min()))
+    hi = float(max(log_real.max(), log_sim.max()))
+    edges = np.linspace(lo, hi, bins + 1)
+
+    fig, ax = plt.subplots(figsize=(10, 6))
+    ax.hist(log_real, bins=edges, density=True, color='steelblue',
+            edgecolor='white', alpha=0.6,
+            label=f'Real  (n={len(log_real):,})')
+    ax.hist(log_sim, bins=edges, density=True, color='crimson',
+            edgecolor='white', alpha=0.5,
+            label=f'IPP simulated  (n={len(log_sim):,})')
+    ax.set_xlabel('log₁₀(Interarrival distance, bp)')
+    ax.set_ylabel('Density')
+    ax.set_title('Real vs IPP-simulated interarrival distances')
+    ax.legend(loc='upper right')
+
+    os.makedirs(os.path.dirname(output_path), exist_ok=True)
+    plt.tight_layout()
+    fig.savefig(output_path, dpi=150)
+    plt.close(fig)
+
+
 def plot_rate_map(rate_map: pd.DataFrame, output_path: str) -> None:
     """λ̂(x) along the genome — one panel per chromosome (1–22, X, Y).
 
